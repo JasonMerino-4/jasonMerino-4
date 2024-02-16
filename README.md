@@ -1,4 +1,4 @@
-Hello 👋
+Hello 👋 and welcome to my GitHub
 
 - 🔭 I’m currently working on a personal website
 - 🌱 I’m currently learning Java and Maven
